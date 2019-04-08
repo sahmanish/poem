@@ -4,6 +4,7 @@ blue
 blue
 orange
 green
+Recycle 
 deep blue
 batman
 yellow
