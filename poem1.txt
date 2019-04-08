@@ -1,6 +1,7 @@
 The poem is about colors and comic characters
 red
 blue
+blue
 orange
 green
 batman
