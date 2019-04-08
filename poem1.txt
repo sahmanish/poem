@@ -1,6 +1,7 @@
 The poem is about colors
 red
 blue
+orange
 green
 yellow
 indigo
