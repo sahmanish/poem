@@ -1,7 +1,8 @@
-The poem is about colors
+The poem is about colors and comic characters
 red
 blue
 orange
 green
+batman
 yellow
 indigo
