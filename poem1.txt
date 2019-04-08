@@ -3,6 +3,7 @@ red
 blue
 orange
 green
+deep blue
 batman
 yellow
 indigo
